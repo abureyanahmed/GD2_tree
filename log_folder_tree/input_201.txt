@@ -1,0 +1,1 @@
+{"graph": "tree", "graph_param_1": "2", "graph_param_2": "7", "output_file": "log_folder_tree/output_201.txt", "metrics": ["edge_uniformity", "aspect_ratio"]}

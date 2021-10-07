@@ -1,0 +1,1 @@
+b"Opening JSON file..\nfn: input_1.txt\nmetrics: ['stress']\ngraph: tree 2 3\ngenerating graph of 15 nodes\nstress 0.01849149595746174\ncrossings 0\nangular_resolution 1.0\nvertex_resolution 0.34050846099853516\nedge_uniformity 0.045955840498209\ngabriel 2.980232238769531e-07\naspect_ratio 0.2529197931289673\nneighborhood_preservation 0\ncrossing_angle_maximization 0\n"

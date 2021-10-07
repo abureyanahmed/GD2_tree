@@ -1,0 +1,1 @@
+{"graph": "tree", "graph_param_1": "2", "graph_param_2": "4", "output_file": "log_folder_tree/output_57.txt", "metrics": ["stress", "crossings"]}
