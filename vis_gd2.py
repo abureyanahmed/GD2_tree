@@ -223,7 +223,8 @@ for p in range(len_meas):
     metric2 = activeQualityMeasures[q]
 
     '''
-    plt.title("Hypercubes")
+    #plt.title("Hypercubes")
+    plt.title("Trees")
     plt.xlabel("Dimension")
     plt.ylabel(metric1 + ' (red) ' + metric2 + ' (blue)')
     plt.plot([i+3 for i in range(len(outputs))], [outputs[i]["stress"] for i in range(len(outputs))], "ro")
