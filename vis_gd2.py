@@ -127,7 +127,8 @@ def generate_scatter_plot(metric1, metric2, sorted_keys, metric1_val, metric2_va
   #  print(x1, y1)
 
   #fig, ax = plt.subplots()
-  plt.title("Hypercubes")
+  #plt.title("Hypercubes")
+  plt.title("Trees")
   plt.xlabel(metric1)
   plt.ylabel(metric2)
   sct1 = plt.scatter(x1, y1, s=common_area, c="red", alpha=0.5, marker='o')
